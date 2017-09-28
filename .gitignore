@@ -1,0 +1,6 @@
+
+\.idea/
+
+*.pyc
+
+web-app/resources/config\.properties
